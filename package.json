@@ -2,7 +2,7 @@
     "name": "react-native-formik-json",
     "version": "0.0.1",
     "description": "react-native-formik-json is a modification of formik-json to work on React native",
-    "main": "src/index.js",
+    "main": "lib/index.js",
     "files": [
         "css",
         "es",
